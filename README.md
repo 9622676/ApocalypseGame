@@ -9,3 +9,5 @@ Version 2-0-7 is the newest.
 Above is the program running, in the main GUI with a graphic behind.
 ![Screenshot 2024-05-20 093950](https://github.com/9622676/ApocalypseGame/assets/146209496/ba3acf4d-e7ce-4338-ac6f-5d66fabb0212)
 Above is the startup screen.
+![Screenshot 2024-05-20 094903](https://github.com/9622676/ApocalypseGame/assets/146209496/7f8038db-0a25-4082-9b01-220dccb4e7ba)
+Above is a screenshot of the Raycaster, rendering a scene of 2 pillars near the camera, and a wall with a protrusion in the distance.
